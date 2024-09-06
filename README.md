@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be applying Natural Language Processing to solve PubMed RCT (PubMed 200k RCT)(https://paperswithcode.com/dataset/pubmed-rct)
+**In this project we'll be applying Natural Language Processing to solve PubMed RCT (PubMed 200k RCT):<br></br>
 **Let's looks into dataset:** <br></br>
 
 **About Dataset**: <br>
@@ -24,7 +24,7 @@ Natural language processing (NLP) is a subfield of computer science and artifici
 
 Classification is a supervised machine learning process of categorizing a given set of input data into classes based on one or more variables. <br></br>
 
-**Important Note: Before Jumping to the code please go through the Natural Language Processing with Disaster Tweets dataset by clicking on this link(https://www.kaggle.com/competitions/nlp-getting-started/data).**
+**Important Note: Before Jumping to the code please go through the Natural Language Processing with Disaster Tweets dataset by clicking on this link([https://www.kaggle.com/competitions/nlp-getting-started/data](https://paperswithcode.com/dataset/pubmed-rct)).**
 
 </table>
 
