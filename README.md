@@ -6,8 +6,8 @@
 **Let's looks into dataset:** <br></br>
 
 **About Dataset**: <br></br>
-PubMed 200k RCT is new dataset based on PubMed for sequential sentence classification. The dataset consists of approximately 200,000 abstracts of randomized controlled trials, totaling 2.3 million sentences. Each sentence of each abstract is labeled with their role in the abstract using one of the following classes: background, objective, method, result, or conclusion. 
-The purpose of releasing this dataset is twofold.First, the majority of datasets for sequential short-text classification (i.e., classification of short texts that appear in sequences) are small: the authors hope that releasing a new large dataset will help develop more accurate algorithms for this task. Second, from an application perspective, researchers need better tools to efficiently skim through the literature.
+PubMed 200k RCT is new dataset based on PubMed for sequential sentence classification. The dataset consists of approximately 200,000 abstracts of randomized controlled trials, totaling 2.3 million sentences. Each sentence of each abstract is labeled with their role in the abstract using one of the following classes: background, objective, method, result, or conclusion.<br>
+The purpose of releasing this dataset is twofold.First, the majority of datasets for sequential short-text classification (i.e., classification of short texts that appear in sequences) are small: the authors hope that releasing a new large dataset will help develop more accurate algorithms for this task. Second, from an application perspective, researchers need better tools to efficiently skim through the literature.<br>
 Automatically classifying each sentence in an abstract would help researchers read abstracts more efficiently, especially in fields where abstracts may be long, such as the medical field.<br></br>
 
 **Before jumping to the code lets understand what is TensorFlow and What is Classification problem and What do we actually understand by Natural Lanuage Processing**...<br></br>
