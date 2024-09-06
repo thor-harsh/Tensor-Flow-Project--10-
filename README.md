@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be applying Natural Language Processing to solve PubMed RCT (PubMed 200k RCT):<br></br>
+**In this project we'll be applying Natural Language Processing to solve PubMed RCT (PubMed 200k RCT):** <br></br>
 **Let's looks into dataset:** <br></br>
 
 **About Dataset**: <br>
