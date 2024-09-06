@@ -5,7 +5,7 @@
 **In this project we'll be applying Natural Language Processing to solve PubMed RCT (PubMed 200k RCT):** <br></br>
 **Let's looks into dataset:** <br></br>
 
-**About Dataset**: <br>
+**About Dataset**: <br></br>
 PubMed 200k RCT is new dataset based on PubMed for sequential sentence classification. The dataset consists of approximately 200,000 abstracts of randomized controlled trials, totaling 2.3 million sentences. Each sentence of each abstract is labeled with their role in the abstract using one of the following classes: background, objective, method, result, or conclusion. 
 The purpose of releasing this dataset is twofold.First, the majority of datasets for sequential short-text classification (i.e., classification of short texts that appear in sequences) are small: the authors hope that releasing a new large dataset will help develop more accurate algorithms for this task. Second, from an application perspective, researchers need better tools to efficiently skim through the literature.
 Automatically classifying each sentence in an abstract would help researchers read abstracts more efficiently, especially in fields where abstracts may be long, such as the medical field.<br></br>
